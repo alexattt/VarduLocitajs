@@ -2,7 +2,7 @@ Vienkārša konsoles programma, kas ļauj ievadīt vārdu un iegūt tā locījum
 
 Programmā ir implementēta šādu vārdu locīšanas loģika - 
 1. deklinācijas lietvārdi ar galotni -s
-4. deklinācijas lietvārdi ar galotni -a
+4. deklinācijas lietvārdi ar galotni -a </br>
 īpašības vārdi ar galotni -āks
 
 Rezultātā tiek iegūti locījumi vārdam vienskaitlī un daudzskaitlī, kā arī īpašības vārdiem klāt nāk sieviešu/vīriešu dzimtes locījumi.
